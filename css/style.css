@@ -8,10 +8,7 @@ body {
   -webkit-font-smoothing: antialiased;
   font-size: 16px;
 }
-  .slider-img:hover {
-    transform: scale(1.1); /* Example: Increase size on hover */
-    transition: transform 0.3s ease; /* Add a smooth transition effect */
-  }
+  
 
   .btn:hover {
     background-color: #ffffff; /* Example: Change background color on hover */
