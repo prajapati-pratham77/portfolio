@@ -1,0 +1,13 @@
+HTTrack3.49-2 launched on Fri, 13 Sep 2024 17:05:24 at https://mixdesign.club/themeforest/braxton/index-gradient.html
+(httrack https://mixdesign.club/themeforest/braxton/index-gradient.html -O /Users/sandeeppatel/Desktop/example_site )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:06:02	Error: 	"Not Found" (404) at link https://mixdesign.club/themeforest/braxton/img/favicon/og-image.jpg (from https://mixdesign.club/themeforest/braxton/index-gradient.html)
+17:06:36	Error: 	"Not Found" (404) at link https://mixdesign.club/themeforest/braxton/img/preloader.gif (from https://mixdesign.club/themeforest/braxton/css/plugins.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 12 seconds : 70 links scanned, 67 files written (16749706 bytes overall) [10179250 bytes received at 141378 bytes/sec], 9311814 bytes transferred using HTTP compression in 22 files, ratio 29%, 10.0 requests per connection
+(2 errors, 0 warnings, 0 messages)
